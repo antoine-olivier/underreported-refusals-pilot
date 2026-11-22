@@ -163,9 +163,9 @@ What cannot be replayed here:
 - `code/analyse_phase2.py`: the analysis script of the study, redacted copy (see "Status of the published files"). `code/replay_counts.py`: the replay checks above. `code/recompute_m1.py`: recomputation of the six M1 lines from the CSV.
 - `data/analysis.txt`: output of the analysis script. `data/corpus-counts.json`: corpus and exclusion counts. `data/per-agent-codes.csv`: anonymised per-agent codes (468 rows).
 - `MANIFEST.md`: every file, its origin and its checksum.
-- `LICENSE`: MIT for `code/`, CC BY 4.0 for text and data.
+- `LICENSE`: MIT License (the code in `code/`). `LICENSE-DATA.md`: CC BY 4.0 for text and data.
 - `.gitignore`: files kept out of the repository (Python cache, working notes).
 
 ## Licence
 
-Text (README, protocol, manifest, data files): CC BY 4.0. Code (`code/`): MIT License, Copyright (c) 2026 Antoine Olivier.
+Text (README, protocol, manifest, data files): CC BY 4.0, see `LICENSE-DATA.md`. Code (`code/`): MIT License, Copyright (c) 2026 Antoine Olivier, see `LICENSE`.
