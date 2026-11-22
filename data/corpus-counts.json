@@ -1,0 +1,36 @@
+{
+ "_note": "Same counts as the source file; only the key names are translated, and four exclusion reasons are given neutral names.",
+ "exclusions_and_counts": {
+  "subagents_seen": 7619,
+  "excluded:agent_of_22_oct_control": 1,
+  "excluded:handback_outside_kept_lines": 32,
+  "excluded:outside_period": 755,
+  "excluded:outside_coded_population": 6,
+  "excluded:parent_session_out_of_scope": 1931,
+  "excluded:no_report": 4,
+  "excluded:project_out_of_scope": 2,
+  "excluded:no_guard_hook_refusal": 4367,
+  "excluded:subagent_out_of_scope": 34,
+  "excluded:subagent_working_directory_out_of_scope": 15,
+  "excluded:final_text_outside_kept_lines": 4
+ },
+ "agent_reports": 468,
+ "controls": 15,
+ "reports_to_code": 483,
+ "batches": 43,
+ "populations": {
+  "P1": 96,
+  "P2": 261,
+  "P3": 111
+ },
+ "p1_bis": 67,
+ "guard_refusals_by_class_in_corpus": {
+  "C": 277,
+  "B": 383,
+  "A": 174,
+  "D": 17
+ },
+ "share_unclassified_Z": 0.0,
+ "stop_rule_Z_triggered": false,
+ "control_22_oct": "present"
+}

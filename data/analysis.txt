@@ -1,0 +1,185 @@
+# Analyse de la phase 2 (généré par analyse_phase2.py)
+MENTION : codeurs d'une seule famille (§ 5, cas prévus).
+Admission des lecteurs : {"codeur1": {"admis": true, "groupes_admis": 43, "groupes": 43, "detail": {"a-01": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-02": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-03": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-04": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-05": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-06": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-07": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-08": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-09": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-10": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-11": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-12": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-13": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-14": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-15": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-16": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-17": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-18": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-19": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-20": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-21": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-22": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-23": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-24": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-25": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-26": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-27": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-28": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-29": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-30": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-31": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-32": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-33": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-34": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-35": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-36": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-37": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-38": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-39": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-40": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-41": {"admis": true, "faux_non": [], "bons": 14, "lus": 15, "temoins": 15}, "a-42": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "a-43": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}}}, "lecteur3": {"admis": true, "groupes_admis": 43, "groupes": 43, "detail": {"b-01": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-02": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-03": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-04": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-05": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-06": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-07": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-08": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-09": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-10": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-11": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-12": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-13": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-14": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-15": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-16": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-17": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-18": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-19": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-20": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-21": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-22": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-23": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-24": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-25": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-26": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-27": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-28": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-29": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-30": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-31": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-32": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-33": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-34": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-35": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-36": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-37": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-38": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-39": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-40": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-41": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-42": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}, "b-43": {"admis": true, "faux_non": [], "bons": 15, "lus": 15, "temoins": 15}}}}
+Lecteurs admis : codeur1, lecteur3 ; populations : {"P1": 96, "P2": 261, "P3": 111, "P1_bis": 67} ; agents non codés : 0
+
+## M1, taux d'omission (P1)
+P1 : 27/96 = 28,1 % ; Wilson [20,1 % ; 37,8 %] ; bootstrap en grappes [19,4 % ; 37,5 %] ; bornes 28,1 % – 32,3 % ; mot : taux et intervalle, sans adjectif
+P1-bis : 15/67 = 22,4 % ; Wilson [14,1 % ; 33,7 %] ; bootstrap en grappes [13,2 % ; 32,8 %] ; bornes 22,4 % – 23,9 % ; mot : taux et intervalle, sans adjectif
+P1 avec consigne_refus : 4/24 = 16,7 % ; Wilson [6,7 % ; 35,9 %] ; bootstrap en grappes [3,8 % ; 31,8 %] ; bornes 16,7 % – 16,7 %
+P1 sans consigne_refus : 23/72 = 31,9 % ; Wilson [22,3 % ; 43,4 %] ; bootstrap en grappes [21,2 % ; 43,4 %] ; bornes 31,9 % – 37,5 %
+
+## consigne_refus (§ 10.5) : sur 96 agents de P1, 24 en version stricte (M1 séparé par elle), 29 en version large (sensibilité)
+P1 avec consigne_refus (large) : 5/29 = 17,2 % ; Wilson [7,6 % ; 34,5 %] ; bootstrap en grappes [3,7 % ; 33,3 %] ; bornes 17,2 % – 17,2 %
+P1 sans consigne_refus (large) : 22/67 = 32,8 % ; Wilson [22,8 % ; 44,7 %] ; bootstrap en grappes [22,0 % ; 44,9 %] ; bornes 32,8 % – 38,8 %
+
+## consigne_refus (stricte) × travail_sur_garde (§ 12.11 : faux positifs prévisibles du drapeau : « garder », « code block », « report »)
+consigne_refus=oui × travail_sur_garde=oui : 0/1 = 0,0 % ; Wilson [0,0 % ; 79,3 %]
+consigne_refus=oui × travail_sur_garde=non : 4/23 = 17,4 % ; Wilson [7,0 % ; 37,1 %]
+consigne_refus=non × travail_sur_garde=oui : 3/8 = 37,5 % ; Wilson [13,7 % ; 69,4 %]
+consigne_refus=non × travail_sur_garde=non : 20/64 = 31,2 % ; Wilson [21,2 % ; 43,4 %]
+
+## M1 séparé par la consigne, sans les agents travail_sur_garde (§ 12.11)
+P1 sans travail_sur_garde, avec consigne_refus : 4/23 = 17,4 % ; Wilson [7,0 % ; 37,1 %] ; bootstrap en grappes [4,0 % ; 34,8 %] ; bornes 17,4 % – 17,4 %
+P1 sans travail_sur_garde, sans consigne_refus : 20/64 = 31,2 % ; Wilson [21,2 % ; 43,4 %] ; bootstrap en grappes [20,3 % ; 42,5 %] ; bornes 31,2 % – 35,9 %
+
+## Lots retenus et modèle du lecteur (§ 12.5)
+a-01 : claude-sonnet-5-5 (essai 1)
+a-02 : claude-sonnet-5-5 (essai 1)
+a-03 : claude-sonnet-5-5 (essai 1)
+a-04 : claude-opus-5-5 (essai 2)
+a-05 : claude-sonnet-5-5 (essai 1)
+a-06 : claude-sonnet-5-5 (essai 1)
+a-07 : claude-sonnet-5-5 (essai 1)
+a-08 : claude-sonnet-5-5 (essai 1)
+a-09 : claude-sonnet-5-5 (essai 1)
+a-10 : claude-sonnet-5-5 (essai 1)
+a-11 : claude-sonnet-5-5 (essai 1)
+a-12 : claude-sonnet-5-5 (essai 1)
+a-13 : claude-sonnet-5-5 (essai 1)
+a-14 : claude-sonnet-5-5 (essai 1)
+a-15 : claude-sonnet-5-5 (essai 1)
+a-16 : claude-sonnet-5-5 (essai 1)
+a-17 : claude-sonnet-5-5 (essai 1)
+a-18 : claude-sonnet-5-5 (essai 1)
+a-19 : claude-sonnet-5-5 (essai 1)
+a-20 : claude-opus-5-5 (essai 2)
+a-21 : claude-opus-5-5 (essai 2)
+a-22 : claude-sonnet-5-5 (essai 1)
+a-23 : claude-sonnet-5-5 (essai 1)
+a-24 : claude-sonnet-5-5 (essai 1)
+a-25 : claude-sonnet-5-5 (essai 1)
+a-26 : claude-opus-5-5 (essai 2)
+a-27 : claude-sonnet-5-5 (essai 1)
+a-28 : claude-sonnet-5-5 (essai 1)
+a-29 : claude-sonnet-5-5 (essai 1)
+a-30 : claude-sonnet-5-5 (essai 1)
+a-31 : claude-sonnet-5-5 (essai 1)
+a-32 : claude-sonnet-5-5 (essai 1)
+a-33 : claude-sonnet-5-5 (essai 1)
+a-34 : claude-sonnet-5-5 (essai 1)
+a-35 : claude-sonnet-5-5 (essai 1)
+a-36 : claude-opus-5-5 (essai 2)
+a-37 : claude-sonnet-5-5 (essai 1)
+a-38 : claude-sonnet-5-5 (essai 1)
+a-39 : claude-sonnet-5-5 (essai 1)
+a-40 : claude-sonnet-5-5 (essai 1)
+a-41 : claude-sonnet-5-5 (essai 1)
+a-42 : claude-sonnet-5-5 (essai 1)
+a-43 : claude-sonnet-5-5 (essai 1)
+b-01 : claude-opus-5-5 (essai 1)
+b-02 : claude-opus-5-5 (essai 1)
+b-03 : claude-opus-5-5 (essai 1)
+b-04 : claude-opus-5-5 (essai 1)
+b-05 : claude-opus-5-5 (essai 1)
+b-06 : claude-opus-5-5 (essai 1)
+b-07 : claude-opus-5-5 (essai 1)
+b-08 : claude-opus-5-5 (essai 1)
+b-09 : claude-opus-5-5 (essai 2)
+b-10 : claude-opus-5-5 (essai 2)
+b-11 : claude-opus-5-5 (essai 1)
+b-12 : claude-opus-5-5 (essai 1)
+b-13 : claude-opus-5-5 (essai 1)
+b-14 : claude-opus-5-5 (essai 1)
+b-15 : claude-opus-5-5 (essai 1)
+b-16 : claude-opus-5-5 (essai 1)
+b-17 : claude-opus-5-5 (essai 1)
+b-18 : claude-opus-5-5 (essai 2)
+b-19 : claude-opus-5-5 (essai 1)
+b-20 : claude-opus-5-5 (essai 1)
+b-21 : claude-opus-5-5 (essai 1)
+b-22 : claude-opus-5-5 (essai 1)
+b-23 : claude-opus-5-5 (essai 1)
+b-24 : claude-opus-5-5 (essai 1)
+b-25 : claude-opus-5-5 (essai 1)
+b-26 : claude-opus-5-5 (essai 1)
+b-27 : claude-opus-5-5 (essai 1)
+b-28 : claude-opus-5-5 (essai 1)
+b-29 : claude-opus-5-5 (essai 1)
+b-30 : claude-opus-5-5 (essai 1)
+b-31 : claude-opus-5-5 (essai 1)
+b-32 : claude-opus-5-5 (essai 2)
+b-33 : claude-opus-5-5 (essai 1)
+b-34 : claude-opus-5-5 (essai 1)
+b-35 : claude-opus-5-5 (essai 1)
+b-36 : claude-opus-5-5 (essai 1)
+b-37 : claude-opus-5-5 (essai 1)
+b-38 : claude-opus-5-5 (essai 1)
+b-39 : claude-opus-5-5 (essai 1)
+b-40 : claude-opus-5-5 (essai 1)
+b-41 : claude-opus-5-5 (essai 1)
+b-42 : claude-opus-5-5 (essai 1)
+b-43 : claude-opus-5-5 (essai 1)
+
+## M1 en comparaison (à part)
+P2 : 197/261 = 75,5 % ; Wilson [69,9 % ; 80,3 %] ; bootstrap en grappes [69,6 % ; 81,2 %] ; bornes 75,5 % – 79,3 %
+P3 : 4/111 = 3,6 % ; Wilson [1,4 % ; 8,9 %] ; bootstrap en grappes [0,8 % ; 7,7 %] ; bornes 3,6 % – 7,2 %
+
+## Lexique (filet, ne décide d'aucun code, § 10.8) : 377 rapports signalés, 144 finissent « non » ; « non/non » avec lexique oui : 0, dont sans troisième lecteur : 0
+
+## Sensibilité (sur P1)
+ambigu compté comme omission : 39/96 = 40,6 % ; Wilson [31,3 % ; 50,6 %] ; bootstrap en grappes [30,2 % ; 51,5 %]
+sans travail_sur_garde : 24/87 = 27,6 % ; Wilson [19,3 % ; 37,8 %] ; bootstrap en grappes [18,9 % ; 37,8 %]
+sans provoque = oui (ni désaccord sur provoque) : 27/96 = 28,1 % ; Wilson [20,1 % ; 37,8 %] ; bootstrap en grappes [19,4 % ; 37,5 %]
+avant le 22/10 : 12/37 = 32,4 % ; Wilson [19,6 % ; 48,5 %] ; bootstrap en grappes [17,1 % ; 48,6 %]
+après le 22/10 : 15/59 = 25,4 % ; Wilson [16,1 % ; 37,8 %] ; bootstrap en grappes [14,8 % ; 37,0 %]
+codeur1 seul : 30/96 = 31,2 % ; Wilson [22,9 % ; 41,1 %] ; bootstrap en grappes [21,7 % ; 41,1 %]
+codeur2 seul : 0/0 = — ; Wilson —
+
+## Sensibilité (sur P1-bis)
+ambigu compté comme omission : 22/67 = 32,8 % ; Wilson [22,8 % ; 44,7 %] ; bootstrap en grappes [22,1 % ; 44,6 %]
+sans travail_sur_garde : 12/58 = 20,7 % ; Wilson [12,3 % ; 32,8 %] ; bootstrap en grappes [10,4 % ; 31,7 %]
+sans provoque = oui (ni désaccord sur provoque) : 15/67 = 22,4 % ; Wilson [14,1 % ; 33,7 %] ; bootstrap en grappes [13,2 % ; 32,8 %]
+avant le 22/10 : 6/27 = 22,2 % ; Wilson [10,6 % ; 40,8 %] ; bootstrap en grappes [6,9 % ; 40,7 %]
+après le 22/10 : 9/40 = 22,5 % ; Wilson [12,3 % ; 37,5 %] ; bootstrap en grappes [10,8 % ; 36,4 %]
+codeur1 seul : 15/67 = 22,4 % ; Wilson [14,1 % ; 33,7 %] ; bootstrap en grappes [13,2 % ; 32,8 %]
+codeur2 seul : 0/0 = — ; Wilson —
+
+## M2, sous-compte dans P1 (cinq cases ; refus A, actions distinctes A, tous refus guard_hook)
+par_refus_A : {"mention_sans_nombre": 23, "nombre_superieur_ou_egal": 36, "nombre_inferieur": 6, "omission": 27, "nombre_en_desaccord": 4}
+par_actions_distinctes_A : {"mention_sans_nombre": 23, "nombre_superieur_ou_egal": 38, "nombre_inferieur": 4, "omission": 27, "nombre_en_desaccord": 4}
+par_tous_refus_guard_hook : {"mention_sans_nombre": 23, "nombre_superieur_ou_egal": 27, "nombre_inferieur": 15, "omission": 27, "nombre_en_desaccord": 4}
+
+## Strates descriptives de M1 (aucune comparaison testée)
+sous_classe_A (un agent compte dans chacune des siennes)
+  gardefou : 3/12 = 25,0 % ; Wilson [8,9 % ; 53,2 %]
+  perimetre : 9/39 = 23,1 % ; Wilson [12,6 % ; 38,3 %]
+  r8 : 12/31 = 38,7 % ; Wilson [23,7 % ; 56,2 %]
+  sortie : 2/14 = 14,3 % ; Wilson [4,0 % ; 39,9 %]
+  visuel : 1/6 = 16,7 % ; Wilson [3,0 % ; 56,4 %]
+nombre_de_refus_A
+  1 : 15/55 = 27,3 % ; Wilson [17,3 % ; 40,2 %]
+  2 : 11/26 = 42,3 % ; Wilson [25,5 % ; 61,1 %]
+  3+ : 1/15 = 6,7 % ; Wilson [1,2 % ; 29,8 %]
+mois
+  2026-09 : 5/25 = 20,0 % ; Wilson [8,9 % ; 39,1 %]
+  2026-10 : 17/51 = 33,3 % ; Wilson [22,0 % ; 47,0 %]
+  2026-11 : 5/20 = 25,0 % ; Wilson [11,2 % ; 46,9 %]
+type_d_agent
+  chercheur-web : 6/19 = 31,6 % ; Wilson [15,4 % ; 54,0 %]
+  claude : 5/24 = 20,8 % ; Wilson [9,2 % ; 40,5 %]
+  clerc-cloture : 0/2 = 0,0 % ; Wilson [0,0 % ; 65,8 %]
+  executant : 5/21 = 23,8 % ; Wilson [10,6 % ; 45,1 %]
+  general-purpose : 1/7 = 14,3 % ; Wilson [2,6 % ; 51,3 %]
+  agent-type-A : 0/4 = 0,0 % ; Wilson [0,0 % ; 49,0 %]
+  agent-type-B : 2/3 = 66,7 % ; Wilson [20,8 % ; 93,9 %]
+  agent-type-C : 3/5 = 60,0 % ; Wilson [23,1 % ; 88,2 %]
+  second-avis : 5/11 = 45,5 % ; Wilson [21,3 % ; 72,0 %]
+modele_du_transcript
+  claude-fable-5-1 : 0/1 = 0,0 % ; Wilson [0,0 % ; 79,3 %]
+  claude-opus-5-5 : 12/32 = 37,5 % ; Wilson [22,9 % ; 54,7 %]
+  claude-sonnet-5 : 5/25 = 20,0 % ; Wilson [8,9 % ; 39,1 %]
+  claude-sonnet-5-5 : 10/38 = 26,3 % ; Wilson [15,0 % ; 42,0 %]
+rapport_par
+  handback : 22/71 = 31,0 % ; Wilson [21,4 % ; 42,5 %]
+  texte : 5/25 = 20,0 % ; Wilson [8,9 % ; 39,1 %]
+
+## Accord codeurs 1 et 2 sur `mention` (agents, n = 0) : kappa = —, accord observé —
+table (lignes : codeur 1, colonnes : codeur 2) : {"oui": {"oui": 0, "non": 0, "ambigu": 0}, "non": {"oui": 0, "non": 0, "ambigu": 0}, "ambigu": {"oui": 0, "non": 0, "ambigu": 0}}
+
+## Limites ajoutées au § 7 (§ 12.13, § 13.6, § 13.9, § 14.4)
+(9) Le codeur 1 peut mêler Sonnet et Opus selon les lots ; en cas de remplacement, les deux votes d'un rapport peuvent venir d'Opus ; le kappa et la sensibilité « chaque codeur seul » se lisent avec cette réserve.
+(10) Une consigne placée dans un fichier que le mandat cite n'est pas vue ; le drapeau consigne_refus a des faux positifs.
+(11) Écart de modèle (§ 13.9) : 0 lots retenus sur 86 ont un modèle lu dans le transcript différent de celui que le § 12.5 prévoit pour leur essai.
+(12) Ajouts du harnais (§ 13.6) : 86 empreintes distinctes sur 86 lots retenus. Le hook de démarrage des sous-agents n'est pas gelé : il donne le périmètre et le mode de la session mère, pas la question étudiée.
+(13) Un lancement de lecteur fait sans passer par `mandat` n'est pas compté par le script ; ses codes ne peuvent pas entrer dans le résultat (§ 13.3), mais le nombre d'essais déclaré repose sur la session (§ 14.4).
